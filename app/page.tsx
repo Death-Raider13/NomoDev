@@ -184,7 +184,7 @@ export default function Home() {
 
         <main className="flex-1 flex flex-col items-center justify-center px-6 py-12">
           <div className="max-w-[1100px] mx-auto text-center mb-8">
-            <h1 className="font-rubik font-semibold text-white text-9xl md:text-10xl lg:text-8xl tracking-tight leading-[1.15]">
+            <h1 className="font-rubik font-semibold text-white text-5xl md:text-7xl lg:text-8xl tracking-tight leading-[1.15]">
                 Trade smarter
                 <br />
                 while Nomo
