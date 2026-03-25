@@ -185,10 +185,13 @@ export default function Home() {
         <main className="flex-1 flex flex-col items-center justify-center px-6 py-12">
           <div className="max-w-[1100px] mx-auto text-center mb-8">
             <h1 className="font-rubik font-semibold text-white text-2xl md:text-5xl lg:text-4xl tracking-tight leading-[1.15]">
-              <span className="inline-block bg-clip-text text-transparent bg-gradient-to-r from-[#00c4f4] to-[#285AEB] mb-2">SATM:</span>
-              <br className="md:hidden" />
-              {" "}Adaptive trading intelligence that combines institutional logic, statistical modeling, and real-time market structure analysis across Crypto, Indices, Forex and Commodities.
-            </h1>
+              <h1 className="text-4xl font-semibold leading-tight tracking-tight text-white sm:text-5xl md:text-6xl">
+                Trade smarter
+                <br />
+                while Nomo
+                <br />
+                does the work
+              </h1>
           </div>
 
           <p className="font-rubik font-normal text-white font-semibold text-xl md:text-3xl text-center mb-8">
